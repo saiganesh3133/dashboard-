@@ -13,7 +13,7 @@ def detect_columns(df, candidates):
 
 # Function to load default data if no file is uploaded
 def load_default_data():
-    return pd.read_csv("healthcare.csv")
+    return pd.read_csv("dashboard/healthcare.csv")
 
 # Function to convert multiple figures to HTML
 def convert_figs_to_html(figs):
