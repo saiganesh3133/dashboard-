@@ -1,0 +1,605 @@
+2025-04-05 13:14:52,014 - ERROR - Application error: No module named 'statsmodels'
+Traceback (most recent call last):
+  File "D:\project\final p\app.py", line 959, in <module>
+    main()
+  File "D:\project\final p\app.py", line 832, in main
+    fig_scatter = px.scatter(
+                  ^^^^^^^^^^^
+  File "d:\project\final p\.venv\Lib\site-packages\plotly\express\_chart_types.py", line 69, in scatter
+    return make_figure(args=locals(), constructor=go.Scatter)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "d:\project\final p\.venv\Lib\site-packages\plotly\express\_core.py", line 2670, in make_figure
+    patch, fit_results = make_trace_kwargs(
+                         ^^^^^^^^^^^^^^^^^^
+  File "d:\project\final p\.venv\Lib\site-packages\plotly\express\_core.py", line 430, in make_trace_kwargs
+    y_out, hover_header, fit_results = trendline_function(
+                                       ^^^^^^^^^^^^^^^^^^^
+  File "d:\project\final p\.venv\Lib\site-packages\plotly\express\trendline_functions\__init__.py", line 42, in ols
+    import statsmodels.api as sm
+ModuleNotFoundError: No module named 'statsmodels'
+
+2025-04-05 13:14:54,981 - ERROR - Application error: No module named 'statsmodels'
+Traceback (most recent call last):
+  File "D:\project\final p\app.py", line 959, in <module>
+    main()
+  File "D:\project\final p\app.py", line 832, in main
+    fig_scatter = px.scatter(
+                  ^^^^^^^^^^^
+  File "d:\project\final p\.venv\Lib\site-packages\plotly\express\_chart_types.py", line 69, in scatter
+    return make_figure(args=locals(), constructor=go.Scatter)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "d:\project\final p\.venv\Lib\site-packages\plotly\express\_core.py", line 2670, in make_figure
+    patch, fit_results = make_trace_kwargs(
+                         ^^^^^^^^^^^^^^^^^^
+  File "d:\project\final p\.venv\Lib\site-packages\plotly\express\_core.py", line 430, in make_trace_kwargs
+    y_out, hover_header, fit_results = trendline_function(
+                                       ^^^^^^^^^^^^^^^^^^^
+  File "d:\project\final p\.venv\Lib\site-packages\plotly\express\trendline_functions\__init__.py", line 42, in ols
+    import statsmodels.api as sm
+ModuleNotFoundError: No module named 'statsmodels'
+
+2025-04-05 13:15:16,847 - ERROR - Application error: No module named 'statsmodels'
+Traceback (most recent call last):
+  File "D:\project\final p\app.py", line 959, in <module>
+    main()
+  File "D:\project\final p\app.py", line 832, in main
+    fig_scatter = px.scatter(
+                  ^^^^^^^^^^^
+  File "d:\project\final p\.venv\Lib\site-packages\plotly\express\_chart_types.py", line 69, in scatter
+    return make_figure(args=locals(), constructor=go.Scatter)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "d:\project\final p\.venv\Lib\site-packages\plotly\express\_core.py", line 2670, in make_figure
+    patch, fit_results = make_trace_kwargs(
+                         ^^^^^^^^^^^^^^^^^^
+  File "d:\project\final p\.venv\Lib\site-packages\plotly\express\_core.py", line 430, in make_trace_kwargs
+    y_out, hover_header, fit_results = trendline_function(
+                                       ^^^^^^^^^^^^^^^^^^^
+  File "d:\project\final p\.venv\Lib\site-packages\plotly\express\trendline_functions\__init__.py", line 42, in ols
+    import statsmodels.api as sm
+ModuleNotFoundError: No module named 'statsmodels'
+
+2025-04-05 13:15:20,089 - ERROR - Application error: No module named 'statsmodels'
+Traceback (most recent call last):
+  File "D:\project\final p\app.py", line 959, in <module>
+    main()
+  File "D:\project\final p\app.py", line 832, in main
+    fig_scatter = px.scatter(
+                  ^^^^^^^^^^^
+  File "d:\project\final p\.venv\Lib\site-packages\plotly\express\_chart_types.py", line 69, in scatter
+    return make_figure(args=locals(), constructor=go.Scatter)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "d:\project\final p\.venv\Lib\site-packages\plotly\express\_core.py", line 2670, in make_figure
+    patch, fit_results = make_trace_kwargs(
+                         ^^^^^^^^^^^^^^^^^^
+  File "d:\project\final p\.venv\Lib\site-packages\plotly\express\_core.py", line 430, in make_trace_kwargs
+    y_out, hover_header, fit_results = trendline_function(
+                                       ^^^^^^^^^^^^^^^^^^^
+  File "d:\project\final p\.venv\Lib\site-packages\plotly\express\trendline_functions\__init__.py", line 42, in ols
+    import statsmodels.api as sm
+ModuleNotFoundError: No module named 'statsmodels'
+
+2025-04-05 13:15:23,516 - ERROR - Application error: No module named 'statsmodels'
+Traceback (most recent call last):
+  File "D:\project\final p\app.py", line 959, in <module>
+    main()
+  File "D:\project\final p\app.py", line 832, in main
+    fig_scatter = px.scatter(
+                  ^^^^^^^^^^^
+  File "d:\project\final p\.venv\Lib\site-packages\plotly\express\_chart_types.py", line 69, in scatter
+    return make_figure(args=locals(), constructor=go.Scatter)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "d:\project\final p\.venv\Lib\site-packages\plotly\express\_core.py", line 2670, in make_figure
+    patch, fit_results = make_trace_kwargs(
+                         ^^^^^^^^^^^^^^^^^^
+  File "d:\project\final p\.venv\Lib\site-packages\plotly\express\_core.py", line 430, in make_trace_kwargs
+    y_out, hover_header, fit_results = trendline_function(
+                                       ^^^^^^^^^^^^^^^^^^^
+  File "d:\project\final p\.venv\Lib\site-packages\plotly\express\trendline_functions\__init__.py", line 42, in ols
+    import statsmodels.api as sm
+ModuleNotFoundError: No module named 'statsmodels'
+
+2025-04-05 13:15:39,643 - ERROR - Application error: No module named 'statsmodels'
+Traceback (most recent call last):
+  File "D:\project\final p\app.py", line 959, in <module>
+    main()
+  File "D:\project\final p\app.py", line 832, in main
+    fig_scatter = px.scatter(
+                  ^^^^^^^^^^^
+  File "d:\project\final p\.venv\Lib\site-packages\plotly\express\_chart_types.py", line 69, in scatter
+    return make_figure(args=locals(), constructor=go.Scatter)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "d:\project\final p\.venv\Lib\site-packages\plotly\express\_core.py", line 2670, in make_figure
+    patch, fit_results = make_trace_kwargs(
+                         ^^^^^^^^^^^^^^^^^^
+  File "d:\project\final p\.venv\Lib\site-packages\plotly\express\_core.py", line 430, in make_trace_kwargs
+    y_out, hover_header, fit_results = trendline_function(
+                                       ^^^^^^^^^^^^^^^^^^^
+  File "d:\project\final p\.venv\Lib\site-packages\plotly\express\trendline_functions\__init__.py", line 42, in ols
+    import statsmodels.api as sm
+ModuleNotFoundError: No module named 'statsmodels'
+
+2025-04-05 13:16:00,923 - ERROR - Application error: No module named 'statsmodels'
+Traceback (most recent call last):
+  File "D:\project\final p\app.py", line 959, in <module>
+    main()
+  File "D:\project\final p\app.py", line 822, in main
+    fig_scatter = px.scatter(
+                  ^^^^^^^^^^^
+  File "d:\project\final p\.venv\Lib\site-packages\plotly\express\_chart_types.py", line 69, in scatter
+    return make_figure(args=locals(), constructor=go.Scatter)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "d:\project\final p\.venv\Lib\site-packages\plotly\express\_core.py", line 2670, in make_figure
+    patch, fit_results = make_trace_kwargs(
+                         ^^^^^^^^^^^^^^^^^^
+  File "d:\project\final p\.venv\Lib\site-packages\plotly\express\_core.py", line 430, in make_trace_kwargs
+    y_out, hover_header, fit_results = trendline_function(
+                                       ^^^^^^^^^^^^^^^^^^^
+  File "d:\project\final p\.venv\Lib\site-packages\plotly\express\trendline_functions\__init__.py", line 42, in ols
+    import statsmodels.api as sm
+ModuleNotFoundError: No module named 'statsmodels'
+
+2025-04-05 13:16:11,594 - ERROR - Application error: No module named 'statsmodels'
+Traceback (most recent call last):
+  File "D:\project\final p\app.py", line 959, in <module>
+    main()
+  File "D:\project\final p\app.py", line 822, in main
+    fig_scatter = px.scatter(
+                  ^^^^^^^^^^^
+  File "d:\project\final p\.venv\Lib\site-packages\plotly\express\_chart_types.py", line 69, in scatter
+    return make_figure(args=locals(), constructor=go.Scatter)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "d:\project\final p\.venv\Lib\site-packages\plotly\express\_core.py", line 2670, in make_figure
+    patch, fit_results = make_trace_kwargs(
+                         ^^^^^^^^^^^^^^^^^^
+  File "d:\project\final p\.venv\Lib\site-packages\plotly\express\_core.py", line 430, in make_trace_kwargs
+    y_out, hover_header, fit_results = trendline_function(
+                                       ^^^^^^^^^^^^^^^^^^^
+  File "d:\project\final p\.venv\Lib\site-packages\plotly\express\trendline_functions\__init__.py", line 42, in ols
+    import statsmodels.api as sm
+ModuleNotFoundError: No module named 'statsmodels'
+
+2025-04-05 13:16:57,368 - ERROR - Application error: No module named 'statsmodels'
+Traceback (most recent call last):
+  File "D:\project\final p\app.py", line 959, in <module>
+    main()
+  File "D:\project\final p\app.py", line 822, in main
+    fig_scatter = px.scatter(
+                  ^^^^^^^^^^^
+  File "d:\project\final p\.venv\Lib\site-packages\plotly\express\_chart_types.py", line 69, in scatter
+    return make_figure(args=locals(), constructor=go.Scatter)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "d:\project\final p\.venv\Lib\site-packages\plotly\express\_core.py", line 2670, in make_figure
+    patch, fit_results = make_trace_kwargs(
+                         ^^^^^^^^^^^^^^^^^^
+  File "d:\project\final p\.venv\Lib\site-packages\plotly\express\_core.py", line 430, in make_trace_kwargs
+    y_out, hover_header, fit_results = trendline_function(
+                                       ^^^^^^^^^^^^^^^^^^^
+  File "d:\project\final p\.venv\Lib\site-packages\plotly\express\trendline_functions\__init__.py", line 42, in ols
+    import statsmodels.api as sm
+ModuleNotFoundError: No module named 'statsmodels'
+
+2025-04-05 13:17:02,409 - ERROR - Application error: No module named 'statsmodels'
+Traceback (most recent call last):
+  File "D:\project\final p\app.py", line 959, in <module>
+    main()
+  File "D:\project\final p\app.py", line 822, in main
+    fig_scatter = px.scatter(
+                  ^^^^^^^^^^^
+  File "d:\project\final p\.venv\Lib\site-packages\plotly\express\_chart_types.py", line 69, in scatter
+    return make_figure(args=locals(), constructor=go.Scatter)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "d:\project\final p\.venv\Lib\site-packages\plotly\express\_core.py", line 2670, in make_figure
+    patch, fit_results = make_trace_kwargs(
+                         ^^^^^^^^^^^^^^^^^^
+  File "d:\project\final p\.venv\Lib\site-packages\plotly\express\_core.py", line 430, in make_trace_kwargs
+    y_out, hover_header, fit_results = trendline_function(
+                                       ^^^^^^^^^^^^^^^^^^^
+  File "d:\project\final p\.venv\Lib\site-packages\plotly\express\trendline_functions\__init__.py", line 42, in ols
+    import statsmodels.api as sm
+ModuleNotFoundError: No module named 'statsmodels'
+
+2025-04-05 13:17:08,591 - ERROR - Application error: cannot access local variable 'categorical_cols' where it is not associated with a value
+Traceback (most recent call last):
+  File "D:\project\final p\app.py", line 959, in <module>
+    main()
+  File "D:\project\final p\app.py", line 782, in main
+    if show_advanced and categorical_cols and len(categorical_cols) >= 2:
+                         ^^^^^^^^^^^^^^^^
+UnboundLocalError: cannot access local variable 'categorical_cols' where it is not associated with a value
+
+2025-04-05 13:17:09,528 - ERROR - Application error: cannot access local variable 'categorical_cols' where it is not associated with a value
+Traceback (most recent call last):
+  File "D:\project\final p\app.py", line 959, in <module>
+    main()
+  File "D:\project\final p\app.py", line 782, in main
+    if show_advanced and categorical_cols and len(categorical_cols) >= 2:
+                         ^^^^^^^^^^^^^^^^
+UnboundLocalError: cannot access local variable 'categorical_cols' where it is not associated with a value
+
+2025-04-05 13:17:11,888 - ERROR - Application error: cannot access local variable 'categorical_cols' where it is not associated with a value
+Traceback (most recent call last):
+  File "D:\project\final p\app.py", line 959, in <module>
+    main()
+  File "D:\project\final p\app.py", line 817, in main
+    color_options = ["None"] + categorical_cols
+                               ^^^^^^^^^^^^^^^^
+UnboundLocalError: cannot access local variable 'categorical_cols' where it is not associated with a value
+
+2025-04-05 13:17:32,076 - ERROR - Application error: cannot access local variable 'categorical_cols' where it is not associated with a value
+Traceback (most recent call last):
+  File "D:\project\final p\app.py", line 959, in <module>
+    main()
+  File "D:\project\final p\app.py", line 817, in main
+    color_options = ["None"] + categorical_cols
+                               ^^^^^^^^^^^^^^^^
+UnboundLocalError: cannot access local variable 'categorical_cols' where it is not associated with a value
+
+2025-04-05 13:17:45,287 - ERROR - Application error: cannot access local variable 'categorical_cols' where it is not associated with a value
+Traceback (most recent call last):
+  File "D:\project\final p\app.py", line 959, in <module>
+    main()
+  File "D:\project\final p\app.py", line 817, in main
+    color_options = ["None"] + categorical_cols
+                               ^^^^^^^^^^^^^^^^
+UnboundLocalError: cannot access local variable 'categorical_cols' where it is not associated with a value
+
+2025-04-05 13:17:57,214 - ERROR - Application error: cannot access local variable 'categorical_cols' where it is not associated with a value
+Traceback (most recent call last):
+  File "D:\project\final p\app.py", line 959, in <module>
+    main()
+  File "D:\project\final p\app.py", line 817, in main
+    color_options = ["None"] + categorical_cols
+                               ^^^^^^^^^^^^^^^^
+UnboundLocalError: cannot access local variable 'categorical_cols' where it is not associated with a value
+
+2025-04-05 13:18:16,372 - ERROR - Application error: cannot access local variable 'categorical_cols' where it is not associated with a value
+Traceback (most recent call last):
+  File "D:\project\final p\app.py", line 959, in <module>
+    main()
+  File "D:\project\final p\app.py", line 817, in main
+    color_options = ["None"] + categorical_cols
+                               ^^^^^^^^^^^^^^^^
+UnboundLocalError: cannot access local variable 'categorical_cols' where it is not associated with a value
+
+2025-04-05 13:18:23,331 - ERROR - Application error: cannot access local variable 'categorical_cols' where it is not associated with a value
+Traceback (most recent call last):
+  File "D:\project\final p\app.py", line 959, in <module>
+    main()
+  File "D:\project\final p\app.py", line 817, in main
+    color_options = ["None"] + categorical_cols
+                               ^^^^^^^^^^^^^^^^
+UnboundLocalError: cannot access local variable 'categorical_cols' where it is not associated with a value
+
+2025-04-05 13:18:37,725 - ERROR - Application error: cannot access local variable 'categorical_cols' where it is not associated with a value
+Traceback (most recent call last):
+  File "D:\project\final p\app.py", line 959, in <module>
+    main()
+  File "D:\project\final p\app.py", line 817, in main
+    color_options = ["None"] + categorical_cols
+                               ^^^^^^^^^^^^^^^^
+UnboundLocalError: cannot access local variable 'categorical_cols' where it is not associated with a value
+
+2025-04-05 13:18:53,284 - ERROR - Application error: cannot access local variable 'categorical_cols' where it is not associated with a value
+Traceback (most recent call last):
+  File "D:\project\final p\app.py", line 959, in <module>
+    main()
+  File "D:\project\final p\app.py", line 817, in main
+    color_options = ["None"] + categorical_cols
+                               ^^^^^^^^^^^^^^^^
+UnboundLocalError: cannot access local variable 'categorical_cols' where it is not associated with a value
+
+2025-04-05 13:19:01,816 - ERROR - Application error: cannot access local variable 'categorical_cols' where it is not associated with a value
+Traceback (most recent call last):
+  File "D:\project\final p\app.py", line 959, in <module>
+    main()
+  File "D:\project\final p\app.py", line 817, in main
+    color_options = ["None"] + categorical_cols
+                               ^^^^^^^^^^^^^^^^
+UnboundLocalError: cannot access local variable 'categorical_cols' where it is not associated with a value
+
+2025-04-05 13:19:12,568 - ERROR - Application error: cannot access local variable 'categorical_cols' where it is not associated with a value
+Traceback (most recent call last):
+  File "D:\project\final p\app.py", line 959, in <module>
+    main()
+  File "D:\project\final p\app.py", line 817, in main
+    color_options = ["None"] + categorical_cols
+                               ^^^^^^^^^^^^^^^^
+UnboundLocalError: cannot access local variable 'categorical_cols' where it is not associated with a value
+
+2025-04-05 13:19:27,970 - ERROR - Application error: cannot access local variable 'categorical_cols' where it is not associated with a value
+Traceback (most recent call last):
+  File "D:\project\final p\app.py", line 959, in <module>
+    main()
+  File "D:\project\final p\app.py", line 817, in main
+    color_options = ["None"] + categorical_cols
+                               ^^^^^^^^^^^^^^^^
+UnboundLocalError: cannot access local variable 'categorical_cols' where it is not associated with a value
+
+2025-04-05 13:20:07,855 - ERROR - Application error: cannot access local variable 'categorical_cols' where it is not associated with a value
+Traceback (most recent call last):
+  File "D:\project\final p\app.py", line 959, in <module>
+    main()
+  File "D:\project\final p\app.py", line 817, in main
+    color_options = ["None"] + categorical_cols
+                               ^^^^^^^^^^^^^^^^
+UnboundLocalError: cannot access local variable 'categorical_cols' where it is not associated with a value
+
+2025-04-05 13:20:20,623 - ERROR - Application error: cannot access local variable 'categorical_cols' where it is not associated with a value
+Traceback (most recent call last):
+  File "D:\project\final p\app.py", line 959, in <module>
+    main()
+  File "D:\project\final p\app.py", line 817, in main
+    color_options = ["None"] + categorical_cols
+                               ^^^^^^^^^^^^^^^^
+UnboundLocalError: cannot access local variable 'categorical_cols' where it is not associated with a value
+
+2025-04-05 13:20:32,999 - ERROR - Application error: cannot access local variable 'categorical_cols' where it is not associated with a value
+Traceback (most recent call last):
+  File "D:\project\final p\app.py", line 959, in <module>
+    main()
+  File "D:\project\final p\app.py", line 817, in main
+    color_options = ["None"] + categorical_cols
+                               ^^^^^^^^^^^^^^^^
+UnboundLocalError: cannot access local variable 'categorical_cols' where it is not associated with a value
+
+2025-04-05 13:21:09,820 - ERROR - Application error: cannot access local variable 'categorical_cols' where it is not associated with a value
+Traceback (most recent call last):
+  File "D:\project\final p\app.py", line 959, in <module>
+    main()
+  File "D:\project\final p\app.py", line 817, in main
+    color_options = ["None"] + categorical_cols
+                               ^^^^^^^^^^^^^^^^
+UnboundLocalError: cannot access local variable 'categorical_cols' where it is not associated with a value
+
+2025-04-05 13:22:59,419 - ERROR - Application error: No module named 'statsmodels'
+Traceback (most recent call last):
+  File "D:\project\final p\app.py", line 959, in <module>
+    main()
+  File "D:\project\final p\app.py", line 832, in main
+    fig_scatter = px.scatter(
+                  ^^^^^^^^^^^
+  File "d:\project\final p\.venv\Lib\site-packages\plotly\express\_chart_types.py", line 69, in scatter
+    return make_figure(args=locals(), constructor=go.Scatter)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "d:\project\final p\.venv\Lib\site-packages\plotly\express\_core.py", line 2670, in make_figure
+    patch, fit_results = make_trace_kwargs(
+                         ^^^^^^^^^^^^^^^^^^
+  File "d:\project\final p\.venv\Lib\site-packages\plotly\express\_core.py", line 430, in make_trace_kwargs
+    y_out, hover_header, fit_results = trendline_function(
+                                       ^^^^^^^^^^^^^^^^^^^
+  File "d:\project\final p\.venv\Lib\site-packages\plotly\express\trendline_functions\__init__.py", line 42, in ols
+    import statsmodels.api as sm
+ModuleNotFoundError: No module named 'statsmodels'
+
+2025-04-05 17:02:25,028 - ERROR - Application error: Found array with 0 sample(s) (shape=(0, 2)) while a minimum of 1 is required by StandardScaler.
+Traceback (most recent call last):
+  File "D:\project\final p\app.py", line 1028, in <module>
+    main()
+  File "D:\project\final p\app.py", line 936, in main
+    X_scaled = scaler.fit_transform(X)
+               ^^^^^^^^^^^^^^^^^^^^^^^
+  File "d:\project\final p\.venv\Lib\site-packages\sklearn\utils\_set_output.py", line 319, in wrapped
+    data_to_wrap = f(self, X, *args, **kwargs)
+                   ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "d:\project\final p\.venv\Lib\site-packages\sklearn\base.py", line 918, in fit_transform
+    return self.fit(X, **fit_params).transform(X)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "d:\project\final p\.venv\Lib\site-packages\sklearn\preprocessing\_data.py", line 894, in fit
+    return self.partial_fit(X, y, sample_weight)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "d:\project\final p\.venv\Lib\site-packages\sklearn\base.py", line 1389, in wrapper
+    return fit_method(estimator, *args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "d:\project\final p\.venv\Lib\site-packages\sklearn\preprocessing\_data.py", line 930, in partial_fit
+    X = validate_data(
+        ^^^^^^^^^^^^^^
+  File "d:\project\final p\.venv\Lib\site-packages\sklearn\utils\validation.py", line 2944, in validate_data
+    out = check_array(X, input_name="X", **check_params)
+          ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "d:\project\final p\.venv\Lib\site-packages\sklearn\utils\validation.py", line 1130, in check_array
+    raise ValueError(
+ValueError: Found array with 0 sample(s) (shape=(0, 2)) while a minimum of 1 is required by StandardScaler.
+
+2025-04-05 17:05:59,403 - ERROR - Application error: Found array with 0 sample(s) (shape=(0, 2)) while a minimum of 1 is required by StandardScaler.
+Traceback (most recent call last):
+  File "D:\project\final p\app.py", line 1049, in <module>
+    main()
+  File "D:\project\final p\app.py", line 957, in main
+    X_scaled = scaler.fit_transform(X)
+               ^^^^^^^^^^^^^^^^^^^^^^^
+  File "d:\project\final p\.venv\Lib\site-packages\sklearn\utils\_set_output.py", line 319, in wrapped
+    data_to_wrap = f(self, X, *args, **kwargs)
+                   ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "d:\project\final p\.venv\Lib\site-packages\sklearn\base.py", line 918, in fit_transform
+    return self.fit(X, **fit_params).transform(X)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "d:\project\final p\.venv\Lib\site-packages\sklearn\preprocessing\_data.py", line 894, in fit
+    return self.partial_fit(X, y, sample_weight)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "d:\project\final p\.venv\Lib\site-packages\sklearn\base.py", line 1389, in wrapper
+    return fit_method(estimator, *args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "d:\project\final p\.venv\Lib\site-packages\sklearn\preprocessing\_data.py", line 930, in partial_fit
+    X = validate_data(
+        ^^^^^^^^^^^^^^
+  File "d:\project\final p\.venv\Lib\site-packages\sklearn\utils\validation.py", line 2944, in validate_data
+    out = check_array(X, input_name="X", **check_params)
+          ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "d:\project\final p\.venv\Lib\site-packages\sklearn\utils\validation.py", line 1130, in check_array
+    raise ValueError(
+ValueError: Found array with 0 sample(s) (shape=(0, 2)) while a minimum of 1 is required by StandardScaler.
+
+2025-04-05 17:10:23,232 - ERROR - Application error: Found array with 0 sample(s) (shape=(0, 2)) while a minimum of 1 is required by StandardScaler.
+Traceback (most recent call last):
+  File "D:\project\final p\app.py", line 1089, in <module>
+    main()
+  File "D:\project\final p\app.py", line 997, in main
+    X_scaled = scaler.fit_transform(X)
+               ^^^^^^^^^^^^^^^^^^^^^^^
+  File "d:\project\final p\.venv\Lib\site-packages\sklearn\utils\_set_output.py", line 319, in wrapped
+    data_to_wrap = f(self, X, *args, **kwargs)
+                   ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "d:\project\final p\.venv\Lib\site-packages\sklearn\base.py", line 918, in fit_transform
+    return self.fit(X, **fit_params).transform(X)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "d:\project\final p\.venv\Lib\site-packages\sklearn\preprocessing\_data.py", line 894, in fit
+    return self.partial_fit(X, y, sample_weight)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "d:\project\final p\.venv\Lib\site-packages\sklearn\base.py", line 1389, in wrapper
+    return fit_method(estimator, *args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "d:\project\final p\.venv\Lib\site-packages\sklearn\preprocessing\_data.py", line 930, in partial_fit
+    X = validate_data(
+        ^^^^^^^^^^^^^^
+  File "d:\project\final p\.venv\Lib\site-packages\sklearn\utils\validation.py", line 2944, in validate_data
+    out = check_array(X, input_name="X", **check_params)
+          ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "d:\project\final p\.venv\Lib\site-packages\sklearn\utils\validation.py", line 1130, in check_array
+    raise ValueError(
+ValueError: Found array with 0 sample(s) (shape=(0, 2)) while a minimum of 1 is required by StandardScaler.
+
+2025-04-05 17:20:14,325 - ERROR - Task exception was never retrieved
+future: <Task finished name='Task-686' coro=<WebSocketProtocol13.write_message.<locals>.wrapper() done, defined at d:\project\final p\.venv\Lib\site-packages\tornado\websocket.py:1086> exception=WebSocketClosedError()>
+Traceback (most recent call last):
+  File "d:\project\final p\.venv\Lib\site-packages\streamlit\web\bootstrap.py", line 347, in run
+    if asyncio.get_running_loop().is_running():
+       ^^^^^^^^^^^^^^^^^^^^^^^^^^
+RuntimeError: no running event loop
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "d:\project\final p\.venv\Lib\site-packages\tornado\websocket.py", line 1088, in wrapper
+    await fut
+tornado.iostream.StreamClosedError: Stream is closed
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "d:\project\final p\.venv\Lib\site-packages\tornado\websocket.py", line 1090, in wrapper
+    raise WebSocketClosedError()
+tornado.websocket.WebSocketClosedError
+2025-04-05 17:38:48,354 - ERROR - Application error: name 'process_coordinates' is not defined
+Traceback (most recent call last):
+  File "D:\project\final p\app.py", line 1133, in <module>
+    main()
+  File "D:\project\final p\app.py", line 664, in main
+    valid_coords = process_coordinates(df, lat_col, lon_col)
+                   ^^^^^^^^^^^^^^^^^^^
+NameError: name 'process_coordinates' is not defined
+
+2025-04-05 17:57:04,568 - ERROR - Application error: st.session_state has no attribute "map_processing". Did you forget to initialize it? More info: https://docs.streamlit.io/develop/concepts/architecture/session-state#initialization
+Traceback (most recent call last):
+  File "d:\project\final p\.venv\Lib\site-packages\streamlit\runtime\state\session_state.py", line 454, in __getitem__
+    return self._getitem(widget_id, key)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "d:\project\final p\.venv\Lib\site-packages\streamlit\runtime\state\session_state.py", line 499, in _getitem
+    raise KeyError
+KeyError
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "d:\project\final p\.venv\Lib\site-packages\streamlit\runtime\state\session_state_proxy.py", line 130, in __getattr__
+    return self[key]
+           ~~~~^^^^^
+  File "d:\project\final p\.venv\Lib\site-packages\streamlit\runtime\state\session_state_proxy.py", line 101, in __getitem__
+    return get_session_state()[key]
+           ~~~~~~~~~~~~~~~~~~~^^^^^
+  File "d:\project\final p\.venv\Lib\site-packages\streamlit\runtime\state\safe_session_state.py", line 96, in __getitem__
+    return self._state[key]
+           ~~~~~~~~~~~^^^^^
+  File "d:\project\final p\.venv\Lib\site-packages\streamlit\runtime\state\session_state.py", line 456, in __getitem__
+    raise KeyError(_missing_key_error_message(key))
+KeyError: 'st.session_state has no key "map_processing". Did you forget to initialize it? More info: https://docs.streamlit.io/develop/concepts/architecture/session-state#initialization'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "D:\project\final p\app.py", line 1174, in <module>
+    main()
+  File "D:\project\final p\app.py", line 725, in main
+    st.session_state.map_processing['settings'] = current_settings
+    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "d:\project\final p\.venv\Lib\site-packages\streamlit\runtime\state\session_state_proxy.py", line 132, in __getattr__
+    raise AttributeError(_missing_attr_error_message(key))
+AttributeError: st.session_state has no attribute "map_processing". Did you forget to initialize it? More info: https://docs.streamlit.io/develop/concepts/architecture/session-state#initialization
+
+2025-04-06 11:09:18,367 - ERROR - Application error: Found array with 0 sample(s) (shape=(0, 2)) while a minimum of 1 is required by StandardScaler.
+Traceback (most recent call last):
+  File "D:\project\final p\app.py", line 1232, in <module>
+    main()
+  File "D:\project\final p\app.py", line 1129, in main
+    X_scaled = scaler.fit_transform(X)
+               ^^^^^^^^^^^^^^^^^^^^^^^
+  File "d:\project\final p\.venv\Lib\site-packages\sklearn\utils\_set_output.py", line 319, in wrapped
+    data_to_wrap = f(self, X, *args, **kwargs)
+                   ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "d:\project\final p\.venv\Lib\site-packages\sklearn\base.py", line 918, in fit_transform
+    return self.fit(X, **fit_params).transform(X)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "d:\project\final p\.venv\Lib\site-packages\sklearn\preprocessing\_data.py", line 894, in fit
+    return self.partial_fit(X, y, sample_weight)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "d:\project\final p\.venv\Lib\site-packages\sklearn\base.py", line 1389, in wrapper
+    return fit_method(estimator, *args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "d:\project\final p\.venv\Lib\site-packages\sklearn\preprocessing\_data.py", line 930, in partial_fit
+    X = validate_data(
+        ^^^^^^^^^^^^^^
+  File "d:\project\final p\.venv\Lib\site-packages\sklearn\utils\validation.py", line 2944, in validate_data
+    out = check_array(X, input_name="X", **check_params)
+          ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "d:\project\final p\.venv\Lib\site-packages\sklearn\utils\validation.py", line 1130, in check_array
+    raise ValueError(
+ValueError: Found array with 0 sample(s) (shape=(0, 2)) while a minimum of 1 is required by StandardScaler.
+
+2025-04-06 11:19:53,843 - ERROR - Application error: argument of type 'bool' is not iterable
+Traceback (most recent call last):
+  File "D:\project\final p\app.py", line 1140, in <module>
+    main()
+  File "D:\project\final p\app.py", line 570, in main
+    if 'geospatial' in st.session_state.load_visualizations:
+       ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+TypeError: argument of type 'bool' is not iterable
+
+2025-04-06 11:20:31,527 - ERROR - Application error: argument of type 'bool' is not iterable
+Traceback (most recent call last):
+  File "D:\project\final p\app.py", line 1140, in <module>
+    main()
+  File "D:\project\final p\app.py", line 570, in main
+    if 'geospatial' in st.session_state.load_visualizations:
+       ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+TypeError: argument of type 'bool' is not iterable
+
+2025-04-06 11:24:33,231 - ERROR - Application error: 'NoneType' object has no attribute 'equals'
+Traceback (most recent call last):
+  File "D:\project\final p\app.py", line 904, in <module>
+    main()
+  File "D:\project\final p\app.py", line 683, in main
+    if 'last_processed_df' not in st.session_state or not st.session_state.last_processed_df.equals(df):
+                                                          ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+AttributeError: 'NoneType' object has no attribute 'equals'
+
+2025-04-06 11:40:38,175 - ERROR - Application error: Value of 'x' is not the name of a column in 'data_frame'. Expected one of ['city', 'count'] but received: index
+ To use the index, pass it in directly as `df.index`.
+Traceback (most recent call last):
+  File "D:\project\final p\app.py", line 803, in <module>
+    main()
+  File "D:\project\final p\app.py", line 728, in main
+    fig_cat = px.bar(df[selected_cat].value_counts().reset_index(),
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "d:\project\final p\.venv\Lib\site-packages\plotly\express\_chart_types.py", line 381, in bar
+    return make_figure(
+           ^^^^^^^^^^^^
+  File "d:\project\final p\.venv\Lib\site-packages\plotly\express\_core.py", line 2479, in make_figure
+    args = build_dataframe(args, constructor)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "d:\project\final p\.venv\Lib\site-packages\plotly\express\_core.py", line 1727, in build_dataframe
+    df_output, wide_id_vars = process_args_into_dataframe(
+                              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "d:\project\final p\.venv\Lib\site-packages\plotly\express\_core.py", line 1328, in process_args_into_dataframe
+    raise ValueError(err_msg)
+ValueError: Value of 'x' is not the name of a column in 'data_frame'. Expected one of ['city', 'count'] but received: index
+ To use the index, pass it in directly as `df.index`.
+
